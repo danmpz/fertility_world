@@ -1,2 +1,0 @@
-# daniel
-# NUEVA LINEA DE CODIGO
